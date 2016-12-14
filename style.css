@@ -1,0 +1,50 @@
+body {
+    line-height: 2em;
+    background-color: darkslategray;
+}
+.container {
+    background-color: black;
+    margin-top: 35px;
+    height: 650px;
+    border: 0px;
+    border-radius: 50px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    background-color: white;    
+}
+label {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+}
+.btn {
+    margin-top:10px;
+    width: 25%;
+    overflow: hidden;
+}
+table {
+    margin-top: 30px;
+}
+table, #hide-div {
+    display: none;
+}
+.a {
+    text-decoration: none;
+    font-size: 35px;
+    margin-top: 20px;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+td, th {
+    padding: 10px;
+    font-size: 20px;
+}
+p {
+    font-size: 35px;
+    line-height: 2em;
+    font-weight: bolder;
+}
+p, label {
+    color: white;
+}
